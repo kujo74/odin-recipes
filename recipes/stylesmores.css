@@ -1,3 +1,38 @@
+body {
+    background-color: #444444;
+}
+
+h1 {
+    color: #B7EF88;
+    background-color: #607052;
+    font-size: 34px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+
+h3 {
+    color: #C689F0;
+    background-color: #645270;
+    font-size: 26px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+}
+
+h4 {
+    color: #F089C1;
+    background-color: #705262;
+    font-size: 22px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+}
+
 li {
     color: blueviolet;
+    background-color: bisque;
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
 }
+
+/* color pallete - split complementary: #F089C1, #705262, #C689F0, #645270, #B7EF88, #607052*/
