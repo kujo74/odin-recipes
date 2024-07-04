@@ -13,12 +13,15 @@ body h1 {
     background-color: rgba(35, 30, 30, 0.759);
     color: white;
     font-size: 40px;
+    text-align: center;
 }
 
 a {
     background-color: rgba(35, 30, 30, 0.759);
     color: orange;
     font-size: 20px;
+    display: inline-block;
+    width: 600px;
     padding: 10px;
     margin: auto;
     border: 4px solid black;
