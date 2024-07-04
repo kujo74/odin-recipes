@@ -1,23 +1,26 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+}
 
 body img {
     width: 100%;
     height: auto;
+    margin-bottom: 20px;
 }
 
 body h1 {
     background-color: rgba(35, 30, 30, 0.759);
     color: white;
     font-size: 40px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 a {
     background-color: rgba(35, 30, 30, 0.759);
     color: orange;
     font-size: 20px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 10px;
-    margin: 20px 30px;
+    margin: auto;
     border: 4px solid black;
 }
 
