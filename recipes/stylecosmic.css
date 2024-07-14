@@ -4,10 +4,12 @@
     color: white;
 }
 
-/* img {
-    width: 100%;
+img {
+    display: block;
+    width: 80%;
     height: auto;
-} */
+    margin: 0 auto;
+} 
 
 body {
     background-color: #2B332B;
@@ -38,10 +40,35 @@ h4 {
     padding: 10px;
 }
 
+p {
+    width: 900px;
+    margin: 0 auto;
+}
+
+li {
+    padding: 2px;
+}
+
 .warm {
     background-color: #5C3E4D;
 }
 
 .cool {
     background-color: #9C436F;
+}
+
+.home {
+    display: block;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 20;
+    margin-top: 40px;
+    margin-left: 90%;
+    padding: 10px;
+}
+
+.list {
+    width: 900px;
+    margin: 10px auto;
 }
