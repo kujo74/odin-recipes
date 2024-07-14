@@ -20,6 +20,7 @@ a {
     background-color: rgba(35, 30, 30, 0.759);
     color: orange;
     font-size: 20px;
+    text-align: center;
     display: inline-block;
     width: 600px;
     padding: 10px;
