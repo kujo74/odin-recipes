@@ -1,9 +1,17 @@
 * {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
 }
 
 body {
     background-color: #444444;
+}
+
+img {
+    display: block;
+    width: 75%;
+    height: auto;
+    margin: 0 auto;
 }
 
 h1 {
@@ -30,8 +38,33 @@ h4 {
 
 li {
     color: blueviolet;
-    background-color: bisque;
     font-size: 18px;
+    padding: 8px;
+}
+
+.list {
+    background-color: bisque;
+    padding: 10px 30px;
+    width: 900px;
+    margin: 0 auto;
+}
+
+p {
+    background-color: bisque;
+    color:blueviolet;
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.home {
+    display: block;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 20;
+    margin-top: 40px;
+    margin-left: 90%;
     padding: 10px;
 }
 
